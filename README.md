@@ -2,22 +2,21 @@
 
 ## ISSUE TO BE SOLVED
 
-The parents daily struggle to find a Kita place for their Kids. The lack of information regarding open places and application process agravates the situation.
+- The parents daily struggle to find a Kita place for their Kids. The lack of information regarding open places and application process agravates the situation.
 
-- This leads to:
-Timeloss and emotional exhaustion for parents.
-Unnecessary effort and duplicated work for Kita administration personnel.
+- Timeloss and emotional exhaustion for parents.
+- Unnecessary effort and duplicated work for Kita administration personnel.
 
 
 ## OUR SOLUTION
 
-Our aim is to create a platform that provides a digital tool in order to make the selection process easier for parents and Kita administration personnel.
+- Our aim is to create a platform that provides a digital tool in order to make the selection process easier for parents and Kita administration personnel.
 
-For this project we need to create two interfaces, one for parents to apply and one for Kitas to choose through the viable candidates.
+- For this project we need to create two interfaces, one for parents to apply and one for Kitas to choose through the viable candidates.
 
 ## TARGET AUDIENCE
 
-Kitas administration personnel, parents and government (indirect)
+- Kitas administration personnel, parents and government (indirect)
 
 ## PROMOTIONAL PLAN
 
@@ -37,6 +36,6 @@ Version Control Git
 Frontend: Html/CSS, JavaScript and React
 Backend: MongoDB,  NodeJS, Postman
 
-The team will perform the maintainability through GitHub
+- The team will perform the maintainability through GitHub
 
 
