@@ -31,10 +31,10 @@ adressing Kita personal (face to face)
 
 ## IMPLEMENTATION PLAN
 
-- Technologies to be used
-Version Control Git
-Frontend: Html/CSS, JavaScript and React
-Backend: MongoDB,  NodeJS, Postman
+- Technologies to be used:
+> Version Control Git
+> Frontend: Html/CSS, JavaScript and React
+> Backend: MongoDB,  NodeJS, Postman
 
 - The team will perform the maintainability through GitHub
 
