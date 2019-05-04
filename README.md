@@ -1,2 +1,1 @@
-# kita-place
-Project Kita Place
+# Project - Kita Place 
