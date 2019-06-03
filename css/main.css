@@ -4,9 +4,11 @@
 }
 
 .home-filters {
-    background-color: salmon;
+    background-color: #729cfa0d;
 }
 
-.home-map {
-    background-color: aquamarine;
+iframe {
+    width: 100%;
+    height: -webkit-fill-available;
+    object-fit: contain;
 }
