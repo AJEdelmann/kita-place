@@ -1,0 +1,12 @@
+.home-filters,
+.home-map {
+    height: -webkit-fill-available;
+}
+
+.home-filters {
+    background-color: salmon;
+}
+
+.home-map {
+    background-color: aquamarine;
+}
